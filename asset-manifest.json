@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shequ2/static/css/main.01033ea5.chunk.css",
+    "main.js": "/shequ2/static/js/main.47c85d84.chunk.js",
+    "main.js.map": "/shequ2/static/js/main.47c85d84.chunk.js.map",
+    "runtime-main.js": "/shequ2/static/js/runtime-main.a5e898b8.js",
+    "runtime-main.js.map": "/shequ2/static/js/runtime-main.a5e898b8.js.map",
+    "static/css/2.d788185a.chunk.css": "/shequ2/static/css/2.d788185a.chunk.css",
+    "static/js/2.90262276.chunk.js": "/shequ2/static/js/2.90262276.chunk.js",
+    "static/js/2.90262276.chunk.js.map": "/shequ2/static/js/2.90262276.chunk.js.map",
+    "index.html": "/shequ2/index.html",
+    "precache-manifest.3e18310a56b256a35b8738e2d3f2ebe3.js": "/shequ2/precache-manifest.3e18310a56b256a35b8738e2d3f2ebe3.js",
+    "service-worker.js": "/shequ2/service-worker.js",
+    "static/css/2.d788185a.chunk.css.map": "/shequ2/static/css/2.d788185a.chunk.css.map",
+    "static/css/main.01033ea5.chunk.css.map": "/shequ2/static/css/main.01033ea5.chunk.css.map",
+    "static/js/2.90262276.chunk.js.LICENSE.txt": "/shequ2/static/js/2.90262276.chunk.js.LICENSE.txt",
+    "static/media/iconfont.css": "/shequ2/static/media/iconfont.79ec1076.svg",
+    "static/media/logo.png": "/shequ2/static/media/logo.18e33593.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e898b8.js",
+    "static/css/2.d788185a.chunk.css",
+    "static/js/2.90262276.chunk.js",
+    "static/css/main.01033ea5.chunk.css",
+    "static/js/main.47c85d84.chunk.js"
+  ]
+}
